@@ -1,0 +1,22 @@
+.app {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.wrapper {
+    display: flex;
+}
+
+.item {
+    flex: 0 0 33.3%;
+    padding: 20px 0;
+    border-bottom: 1px solid #000000;
+}
+
+.headItem {
+    flex: 0 0 33.3%
+}
+
+.emptyContent {
+    font-weight: 800;
+}
